@@ -1,0 +1,118 @@
+/* CSS files add styling rules to your content */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+
+/* https://glitch.com/~code-portfolio-template */
+
+body {
+  margin: 4em;
+  font-family: "Roboto", sans-serif;
+  background-color: rgba(0, 0, 0, 0.98);
+  color: white;
+}
+
+h1 {
+  font-size: 28px;
+  letter-spacing: 0.1em;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+h3 {
+  letter-spacing: 0.05em;
+}
+
+p {
+  font-weight: 300;
+  text-align: justify;
+}
+
+.flex-cover {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95vw;
+  position: absolute;
+  top: 30vh;
+}
+.flex-cover > div {
+  background-color: red;
+  width: 240px;
+  margin: 10px;
+  height: 240px;
+  text-align: center;
+  line-height: 75px;
+  /*   font-size: 30px; */
+}
+.cover {
+  width: 240px;
+  height: 240px;
+}
+.cover:hover {
+  /*   filter: blur(5px); */
+  filter: opacity(60%);
+}
+
+#try {
+  width: 45vw;
+  height: 300px;
+}
+img {
+  width: 45vw;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-weight: 700;
+}
+h2 {
+  font-weight: 600;
+}
+
+#return {
+  position: absolute;
+  left: 85vw;
+  top: 10vh;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 2px;
+  margin: 5px;
+}
+
+#return:hover {
+  background-color: rgba(205, 5, 10, 0.5);
+}
+
+.externallink {
+  text-decoration: none;
+  color: rgb(205, 5, 10);
+  font-size: 18px;
+  font-weight: 600;
+}
+.externallink:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+iframe {
+  margin: 0;
+  padding: 0;
+  border: none;
+  width: 100%;
+  height: 100%;
+}
+.box {
+  width: 600px;
+  height: 600px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+.description {
+  width: 45vw;
+}
+#iterations {
+  width: 75vw;
+}
