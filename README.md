@@ -1,5 +1,4 @@
-# CODE 2 
-# YUJING SHI Portfolio
+# CODE 2 Yujing Shi Portfolio
 
 https://yujingsss.github.io/code2yujingshi/
 
