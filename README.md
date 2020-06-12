@@ -1,4 +1,3 @@
-<h1>CODE 2 YUJING SHI Portfolio</h1>
-
+# CODE 2 YUJING SHI Portfolio
 https://yujingsss.github.io/code2yujingshi/
 
